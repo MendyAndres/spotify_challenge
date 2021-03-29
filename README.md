@@ -1,6 +1,6 @@
 ## Aivo Challenge 
 
-Api Demo made using Slim 3 microframwork, It consults the spotify api to get an especific artist's albums.
+Api Demo made using Slim 3 microframwork, It consults the spotify api to get an specific artist's albums.
 
 First, After cloning the repo You should execute 
 
@@ -8,7 +8,7 @@ First, After cloning the repo You should execute
 
 to install the necessary dependencies.
 
-Then, for defining your enviroment file you should to execute 
+Then, for defining your environment file you should to execute 
 
 >`$ cp .env.example .env`
 
