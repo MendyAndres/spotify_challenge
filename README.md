@@ -4,7 +4,7 @@ Api Demo made using Slim 3 microframwork, It consults the spotify api to get an 
 
 First, After cloning the repo You should execute 
 
->```$ Composer Install```
+>```$ composer install```
 
 to install the necessary dependencies.
 
@@ -14,7 +14,7 @@ Then, for defining your environment file you should to execute
 
 Finally, you could test by running the following command.
 
->`$ Composer Start`
+>`$ composer start`
 
 The consult's endpoint is: 
 
